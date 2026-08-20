@@ -3,7 +3,7 @@
 Complete admin dashboard with 8 pages, statistics, tasks, file manager and modern UI. Ideal showcase for MUI DataGrid & Tables.
 
 ### 🔗 Live Demo
-https://omar-khatab.github.io/dashbord-template/
+https://omar-khatab.github.io/Admin-Dashboard/
 
 ### 🛠️ Stack
 - HTML5
